@@ -1,6 +1,9 @@
-/**
- * 
- */
+/* 
+* @author Sean Staz
+*
+*
+*
+*/
 package edu.olemiss.cs.csci211;
 
 import static org.junit.Assert.*;

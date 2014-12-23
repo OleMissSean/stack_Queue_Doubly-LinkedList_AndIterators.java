@@ -1,6 +1,6 @@
 /* This is a linked list implementation of a stack. (Test)
  * 
- * @author Sean Stasny
+ * @author Sean Staz
  *
  * @param <T> the type of element.
  */
